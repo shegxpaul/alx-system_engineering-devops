@@ -1,3 +1,2 @@
 #!/bin/bash
-chown --fom*guillaume betty hello
-chown --from=guillaume betty hello
+chown --from=guillame betty hello
